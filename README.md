@@ -48,7 +48,7 @@ jarvis/
 ### Step 2 — Download / Clone
 ```bash
 # If you have git:
-git clone https://github.com/yourname/jarvis.git
+git clone https://github.com/shimul349/JARVIS-AI-Assistant.git
 cd jarvis
 
 # Or just extract the ZIP to a folder and cd into it
